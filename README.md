@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @JF60
-- 👀 I’m interested in web development and data science
-- 🌱 I’m currently learning wep application with django
-- 💞️ I’m looking to collaborate on data science
+- 👋 Hi, I’m @John Nyalali
+- 👀 I’m interested in Tech and Agriculture
+- 🌱 I’m currently learning HTML, SCC and JavaScript
+- 💞️ I’m looking to collaborate with Web developers
 - 📫 How to reach me johnndugunamiti@yahoo.com
 
 <!---
